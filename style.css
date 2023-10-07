@@ -1,0 +1,24 @@
+body::before{
+  display: block;
+  content: '';
+  height: 60px;
+}
+.img{
+  width: 100%;
+  height: 100%;
+  border-radius: 50px;
+}
+
+
+
+
+
+
+@media (min-screen:768) {
+  .news-input{
+    width: 50%;
+  }
+ .maps{
+  background-color: red;
+ }
+}
